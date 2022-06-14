@@ -9,4 +9,8 @@ print("One more change")
 "Second developer made changes'
 
 "Another update"
+<<<<<<< HEAD
 "Some updates'
+=======
+"One more change
+>>>>>>> fbc0a9cb2b192be40324169c7545f81cf6a04581
